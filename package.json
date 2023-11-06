@@ -1,0 +1,24 @@
+{
+  "name": "sql-and-knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunapupo/sql-and-knex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunapupo/sql-and-knex/issues"
+  },
+  "homepage": "https://github.com/Brunapupo/sql-and-knex#readme",
+  "dependencies": {
+    "knex": "^3.0.1",
+    "mysql2": "^3.6.3"
+  }
+}
